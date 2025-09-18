@@ -22,7 +22,7 @@ hamburger.addEventListener('click', function () {
 });
 
 resumeButton.addEventListener('click', () => {
-    const urlToOpen = 'https://drive.google.com/file/d/1pYd_t7xpRMKpFXU51Ajkf3qWBjSxbKi2/view?usp=sharing';
+    const urlToOpen = '../karlee.perpignant_resume.pdf';
     console.log('open link');
     window.open(urlToOpen, '_blank', 'noopener, noreferrer');
 });
