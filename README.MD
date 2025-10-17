@@ -1,6 +1,16 @@
 # My Portfolio
 
-## Made from a Geeksforgeeks template
+#### 
 
-#### Updated to include my resume and links (in addition to my images)
+#### I'm Karlee, a software engineer, and game developer and quality assurance professional based in Boston, MA
+
+#### 
+
+#### \- 🔭 I’m currently working on a variety of game demos, and web applications
+
+#### \- 🌱 I’m currently learning C#, JavaScript and Python
+
+#### \- 👯 I’m looking to collaborate on Rhythm Game Projects or API testing
+
+#### \- 🤔 I’m looking for help with improving on Unity Projects
 
